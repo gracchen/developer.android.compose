@@ -9,6 +9,7 @@
 
 ### Unit 2: Unit 2: Building app UI (duration: 21 hours)
 
-5. Dice Roller [Coding](https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app) [Debugging](https://developer.android.com/codelabs/basic-android-kotlin-compose-intro-debugger)
+5. Dice Roller [Coding](https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app) and [Debugging](https://developer.android.com/codelabs/basic-android-kotlin-compose-intro-debugger)
 6. [Lemonade](https://developer.android.com/codelabs/basic-android-kotlin-compose-button-click-practice-problem)
-7. Tip Calculator  [Part 1](https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state)  [Part 2](https://developer.android.com/codelabs/basic-android-kotlin-compose-calculate-tip)
+7. Tip Calculator  [Part 1](https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state) and [Part 2](https://developer.android.com/codelabs/basic-android-kotlin-compose-calculate-tip)
+8. [Automating Tests](https://developer.android.com/codelabs/basic-android-kotlin-compose-write-automated-tests)
